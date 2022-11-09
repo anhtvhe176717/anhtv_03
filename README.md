@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @anhtvhe176717
+- 👋 Hi, I’m Vanh
 - 👀 I’m interested in technology, lifestyle and family. 
-- 🌱 I’m currently learning software engineering at FPT University,
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning software engineering at [FPT](https://fpt.com.vn/vi) University.
+- 💞️ I am studying for an undergraduate degree in Software Engineering.
+- 📫 Please email anhtvhe176717@fpt.edu.vn to contact me.
 
 <!---
 anhtvhe176717/anhtvhe176717 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
